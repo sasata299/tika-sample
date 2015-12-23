@@ -1,0 +1,9 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "aws-sdk": "^2.2.26",
+    "tika": "^1.3.0"
+  }
+}
